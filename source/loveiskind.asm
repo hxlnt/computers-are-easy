@@ -23,7 +23,7 @@
 ;♥                                                                  ♥;
 ;♥                      ; This program was written in one day, on   ♥;
 ;♥                      ; the occasion of the US Supreme Court      ♥;
-;♥                      ; ruling on marriage equality. Version 2    ♥;
+;♥                      ; ruling on marriage equality. Version 2.0  ♥;
 ;♥                      ; has additional code commenting, and the   ♥;
 ;♥                      ; sparkle animation was changed to sync     ♥;
 ;♥                      ; with the music. As this program was       ♥;
@@ -33,6 +33,9 @@
 ;♥                      ; them. Have fun, traveler!                 ♥;
 ;♥                                                                  ♥;
 ;♥                      ; Rachel Simone Weil                        ♥;
+;♥                      ; http://nobadmemories.com                  ♥;
+;♥                      ; http://github.com/hxlnt                   ♥;
+;♥                                                                  ♥;
 ;♥                                                                  ♥;
 ;♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥♥;
 
