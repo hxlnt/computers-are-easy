@@ -1,5 +1,7 @@
 # computers-are-easy
 
+![GIF](https://hxlntblob.blob.core.windows.net/nbm/easykind2.gif)
+
 ♥ ♥ ♥ 
 
 Computers Are Easy, Love is Kind (v. 2.0) Rachel Simone Weil/Electronic Love Operation 2015
